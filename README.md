@@ -1,3 +1,7 @@
+### Repository Fork from https://github.com/rdpeng/ProgrammingAssignment2
+## All the original README.MD info are bellow
+## Rafael Pastor Vargas, October 2015
+
 ### Introduction
 
 This second programming assignment will require you to write an R
